@@ -1,4 +1,4 @@
-main.c
+#include<stdio.h>
 main(){
 big()
 fact()
