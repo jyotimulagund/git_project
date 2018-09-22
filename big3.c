@@ -3,7 +3,7 @@
  */
 #include <stdio.h>
  
-void big()
+void big3()
 {
     int num1, num2, num3;
  
